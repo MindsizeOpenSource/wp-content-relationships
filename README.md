@@ -1,6 +1,6 @@
-# Posts 2 Posts
+# WP Content Relationships
 
-Contributors: scribu, ciobi  
+Contributors: MindsizeOpenSource, mindsize, scribu, ciobi  
 Tags: connections, custom post types, relationships, many-to-many, users  
 Requires at least: 3.9  
 Tested up to: 4.3  
@@ -8,7 +8,7 @@ Stable tag: 1.6.5
 License: GPLv2 or later  
 License URI: http://www.gnu.org/licenses/gpl-2.0.html  
 
-Efficient many-to-many connections between posts, pages, custom post types, users.
+Efficient many-to-many relationships between posts, pages, custom post types, users. Forked from Posts 2 Posts.
 
 ## Description
 
@@ -27,11 +27,7 @@ Additionally, you can create many-to-many relationships between posts and users.
 
 ### Support & Maintenance
 
-I, scribu, will not be offering support (either free or paid) for this plugin anymore.
-
-Furthermore, I will not be doing any development work whatsoever.
-
-If you want to fix a bug in the plugin or add new features, feel free to fork it [on github](https://github.com/scribu/wp-posts-to-posts). <em>I will not be accepting any pull requests</em> though, since ensuring that a code change doesn't break things takes effort, effort which I'm no longer willing to expend.
+We will be offering both free and paid support for this plugin once we have established a true fork of the Posts 2 Posts project.
 
 Links: [**Documentation**](http://github.com/scribu/wp-posts-to-posts/wiki) | [Plugin News](http://scribu.net/wordpress/posts-to-posts) | [Author's Site](http://scribu.net)
 
